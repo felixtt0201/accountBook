@@ -14,13 +14,13 @@ const INITIAL_EXPENSES = [
     id: 'el2',
     title: 'lesson2',
     amount: 700,
-    date: new Date(2021, 9, 12),
+    date: new Date(2021, 2, 12),
   },
   {
     id: 'el3',
     title: 'lesson3',
     amount: 500,
-    date: new Date(2019, 9, 21),
+    date: new Date(2019, 1, 21),
   },
 ];
 const App = () => {
